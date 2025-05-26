@@ -19,8 +19,8 @@ This project focuses on building a deep learning model to **predict emotions fro
 - `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`
 - `datasets` (for tweet dataset)
 
-**Training Summary**
+### **Training Summary**
 
-Loss function: sparse_categorical_crossentropy
-Optimizer: adam
-Metrics: accuracy
+-Loss function: sparse_categorical_crossentropy
+-Optimizer: adam
+- Metrics: accuracy
