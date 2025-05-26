@@ -21,6 +21,6 @@ This project focuses on building a deep learning model to **predict emotions fro
 
 ### **Training Summary**
 
--Loss function: sparse_categorical_crossentropy
--Optimizer: adam
+- Loss function: sparse_categorical_crossentropy
+- Optimizer: adam
 - Metrics: accuracy
